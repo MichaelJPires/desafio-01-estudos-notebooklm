@@ -6,7 +6,7 @@
   <img src="https://img.shields.io" alt="Data Analytics">
 </p>
 
-
+https://lens.usercontent.google.com/banana?agsi=CmdnbG9iYWw6OjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAwZWI6MTpiYmQ1ODJiNGI0MDZmODBiOjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAyMDJhZDMwMzM2ODowMDA2NGQwM2QyY2VjYWVmEAI=
 
 
 > **Descrição:** Desenvolvimento de um manual didático e abrangente sobre Inteligência Artificial, focado em simplificar a jornada de iniciantes no universo da IA Generativa aplicada a dados.
