@@ -1,9 +1,7 @@
 # 🧠 Desafio 01: Imersão em IA Generativa com NotebookLM
 
 <p align="center">
-  <img src="https://img.shields.io" alt="Status">
-  <img src="imagem(1).png" alt="NotebookLM" width="200">
-  <img src="image_7f5a6fde.png)" alt="Data Analytics">
+  <img src="imagem(1).png" alt="NotebookLM" width="1000">
 </p>
 
 ![Logo])
