@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io" alt="Status">
   <img src="" alt="NotebookLM">
-  <img src="https://img.shields.io" alt="Data Analytics">
+  <img src="image_7f5a6fde.png)" alt="Data Analytics">
 </p>
 
 ![Logo](image_7f5a6fde.png)
