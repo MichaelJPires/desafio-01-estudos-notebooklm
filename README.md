@@ -26,18 +26,21 @@
 
 
 ## 📖 Sobre o Projeto
+
 Este repositório é o resultado de uma imersão profunda na interseção entre **IA Generativa** e **Análise de Dados**. Utilizando o potencial do **Google NotebookLM**, processei documentos governamentais, acadêmicos e técnicos para criar um manual que traduz a complexidade da IA para uma linguagem acessível e estratégica.
 
 O projeto não apenas sintetiza informações, mas estrutura um caminho de aprendizado para quem deseja expandir habilidades em uma das áreas mais crescentes da tecnologia atual.
 
 
 ## 🎯 Objetivos do Manual
+
 *   **Aceleração de Curva de Aprendizado:** Facilitar o entendimento de termos técnicos (LLMs, RAG, Tokens) para leigos.
 *   **Soberania Digital:** Basear o conhecimento em planos nacionais (PBIA 2025) e diretrizes éticas.
 *   **Aplicação Prática:** Mostrar como a IA pode ser usada para extrair insights valiosos de grandes volumes de dados.
 
 
 ## 📚 Base de Conhecimento (Fontes)
+
 A curadoria deste manual foi baseada em fontes de alto rigor técnico e institucional:
 
 
@@ -50,6 +53,7 @@ A curadoria deste manual foi baseada em fontes de alto rigor técnico e instituc
 
 
 ## 🛠️ Metodologia de Estudo
+
 1.  **Ingestão de Dados:** Carregamento das fontes citadas no motor do NotebookLM.
 2.  **Processamento Semântico:** Cruzamento de dados entre o Plano Brasileiro (PBIA) e aplicações práticas do Google Cloud.
 3.  **Refinamento de Prompts:** Utilização de técnicas de *Prompt Engineering* para extrair resumos didáticos e guias de "passo a passo".
@@ -57,6 +61,7 @@ A curadoria deste manual foi baseada em fontes de alto rigor técnico e instituc
 
 
 ## ✨ Principais Insights Gerados
+
 - A importância da **ética e governança** conforme o Plano Brasileiro de IA.
 - Como a IA Generativa reduz o tempo de **limpeza e preparação de dados** em até 60%.
 - O papel fundamental da IA na **Indústria 4.0** para pequenos e médios negócios (Sebrae).
