@@ -8,9 +8,7 @@
 
 > **Descrição:** Desenvolvimento de um manual didático e abrangente sobre Inteligência Artificial, focado em simplificar a jornada de iniciantes no universo da IA Generativa aplicada a dados.
 
-
 ---
-
 
 ## 📌 Sumário
 1. [Sobre o Projeto](#-sobre-o-projeto)
