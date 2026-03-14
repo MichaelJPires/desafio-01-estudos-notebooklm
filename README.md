@@ -2,9 +2,11 @@
 
 <p align="center">
   <img src="https://img.shields.io" alt="Status">
-  <img src="https://img.shields.io](https://github.com/MichaelJPires/desafio-01-estudos-notebooklm/blob/main/imagem(1).png" alt="NotebookLM">
+  <img src="" alt="NotebookLM">
   <img src="https://img.shields.io" alt="Data Analytics">
 </p>
+
+![Logo](image_7f5a6fde.png)
 
 https://github.com/MichaelJPires/desafio-01-estudos-notebooklm/blob/main/imagem(1).png
 
