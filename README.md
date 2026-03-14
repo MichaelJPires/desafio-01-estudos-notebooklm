@@ -4,10 +4,6 @@
   <img src="imagem(1).png" alt="NotebookLM" width="1000">
 </p>
 
-![Logo])
-
-https://github.com/MichaelJPires/desafio-01-estudos-notebooklm/blob/main/imagem(1).png
-
 
 > **Descrição:** Desenvolvimento de um manual didático e abrangente sobre Inteligência Artificial, focado em simplificar a jornada de iniciantes no universo da IA Generativa aplicada a dados.
 
