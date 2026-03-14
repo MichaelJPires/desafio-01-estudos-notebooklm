@@ -1,10 +1,75 @@
-# desafio-01-estudos-notebooklm
-Estudo inicial de IA generativa em dados 
+# 🧠 Desafio 01: Imersão em IA Generativa com NotebookLM
 
-Objetivos:
-Desenvolver um Manual de Inteligência Artificial, funcionando como um guia didático abrangente, projetado para introduzir iniciantes ao universo da tecnologia de forma descomplicada.
+<p align="center">
+  <img src="https://img.shields.io" alt="Status">
+  <img src="https://img.shields.io" alt="NotebookLM">
+  <img src="https://img.shields.io" alt="Data Analytics">
+</p>
 
-Uma imersão ao universo de analise de dados com IA's generativas, com intruções e ensinmentos para expandir as habilidades e conhecimento em uma das ares mais crecente dos ultimos anos.
+> **Descrição:** Desenvolvimento de um manual didático e abrangente sobre Inteligência Artificial, focado em simplificar a jornada de iniciantes no universo da IA Generativa aplicada a dados.
+
+---
+
+## 📌 Sumário
+1. [Sobre o Projeto](#-sobre-o-projeto)
+2. [Objetivos do Manual](#-objetivos-do-manual)
+3. [Base de Conhecimento (Fontes)](#-base-de-conhecimento-fontes)
+4. [Metodologia de Estudo](#-metodologia-de-estudo)
+5. [Principais Insights](#-principais-insights)
+6. [Como Utilizar este Repositório](#-como-utilizar-este-repositório)
+7. [Autor](#-autor)
+
+---
+
+## 📖 Sobre o Projeto
+Este repositório é o resultado de uma imersão profunda na interseção entre **IA Generativa** e **Análise de Dados**. Utilizando o potencial do **Google NotebookLM**, processei documentos governamentais, acadêmicos e técnicos para criar um manual que traduz a complexidade da IA para uma linguagem acessível e estratégica.
+
+O projeto não apenas sintetiza informações, mas estrutura um caminho de aprendizado para quem deseja expandir habilidades em uma das áreas mais crescentes da tecnologia atual.
+
+## 🎯 Objetivos do Manual
+*   **Aceleração de Curva de Aprendizado:** Facilitar o entendimento de termos técnicos (LLMs, RAG, Tokens) para leigos.
+*   **Soberania Digital:** Basear o conhecimento em planos nacionais (PBIA 2025) e diretrizes éticas.
+*   **Aplicação Prática:** Mostrar como a IA pode ser usada para extrair insights valiosos de grandes volumes de dados.
+
+## 📚 Base de Conhecimento (Fontes)
+A curadoria deste manual foi baseada em fontes de alto rigor técnico e institucional:
+
+
+| Fonte | Instituição | Tipo de Documento |
+| :--- | :--- | :--- |
+| [IA em Data Analytics](https://cloud.google.com) | Google Cloud | Guia de Caso de Uso |
+| [PBIA 2025](https://www.gov.br) | MCTI | Plano Nacional |
+| [Manual de IA Inesq](https://brasil.ia.inesq.org.br) | Inesq | Manual Técnico |
+| [IA na Indústria 4.0](https://sebrae.com.br) | SEBRAE | E-book Estratégico |
+
+## 🛠️ Metodologia de Estudo
+1.  **Ingestão de Dados:** Carregamento das fontes citadas no motor do NotebookLM.
+2.  **Processamento Semântico:** Cruzamento de dados entre o Plano Brasileiro (PBIA) e aplicações práticas do Google Cloud.
+3.  **Refinamento de Prompts:** Utilização de técnicas de *Prompt Engineering* para extrair resumos didáticos e guias de "passo a passo".
+4.  **Estruturação de Manual:** Organização do output em um guia lógico de introdução, desenvolvimento e conclusão.
+
+## ✨ Principais Insights Gerados
+- A importância da **ética e governança** conforme o Plano Brasileiro de IA.
+- Como a IA Generativa reduz o tempo de **limpeza e preparação de dados** em até 60%.
+- O papel fundamental da IA na **Indústria 4.0** para pequenos e médios negócios (Sebrae).
+
+## 📂 Como Utilizar este Repositório
+*   `notebooks/`: Contém os logs ou resumos exportados do NotebookLM.
+*   `referencias/`: Links e PDFs utilizados como fonte primária.
+*   `README.md`: Guia principal de navegação.
+
+---
+
+## 👤 Autor
+
+Desenvolvido por **[Seu Nome Aqui]** – Sinta-se à vontade para se conectar!
+
+[![LinkedIn](https://img.shields.io)](LINK_DO_SEU_LINKEDIN)
+[![GitHub](https://img.shields.io)](LINK_DO_SEU_GITHUB)
+
+---
+⭐️ Se este guia te ajudou, dê uma **estrela** no repositório!
+
 
 
 Fontes em textos:
