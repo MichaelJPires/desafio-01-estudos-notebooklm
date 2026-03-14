@@ -2,7 +2,10 @@
 Estudo inicial de IA generativa em dados 
 
 Objetivos:
-Desenvolver um Manual de Inteligência Artificial funciona como um guia didático abrangente, projetado para introduzir iniciantes ao universo da tecnologia de forma descomplicada.
+Desenvolver um Manual de Inteligência Artificial, funcionando como um guia didático abrangente, projetado para introduzir iniciantes ao universo da tecnologia de forma descomplicada.
+
+Uma imersão ao universo de analise de dados com IA's generativas, com intruções e ensinmentos para expandir as habilidades e conhecimento em uma das ares mais crecente dos ultimos anos.
+
 
 Fontes em textos:
 https://cloud.google.com/use-cases/ai-data-analytics?hl=pt-BR
