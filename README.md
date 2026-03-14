@@ -37,9 +37,9 @@ A curadoria deste manual foi baseada em fontes de alto rigor técnico e instituc
 
 | Fonte | Instituição | Tipo de Documento |
 | :--- | :--- | :--- |
-| [IA em Data Analytics](https://cloud.google.com) | Google Cloud | Guia de Caso de Uso |
-| [PBIA 2025](https://www.gov.br) | MCTI | Plano Nacional |
-| [Manual de IA Inesq](https://brasil.ia.inesq.org.br) | Inesq | Manual Técnico |
+| [IA em Data Analytics](https://cloud.google.com/use-cases/ai-data-analytics?hl=pt-BR) | Google Cloud | Guia de Caso de Uso |
+| [PBIA 2025](https://www.gov.br/mcti/pt-br/centrais-de-conteudo/publicacoes-mcti/plano-brasileiro-de-inteligencia-artificial/pbia_mcti_2025.pdf) | MCTI | Plano Nacional |
+| [Aplicação de IA](https://repositorio-api.animaeducacao.com.br/server/api/core/bitstreams/5d8f1cbd-0a29-440b-9a67-a13a58ece747/content) | Anima | E-book |
 | [IA na Indústria 4.0](https://sebrae.com.br) | SEBRAE | E-book Estratégico |
 
 ## 🛠️ Metodologia de Estudo
@@ -62,7 +62,7 @@ A curadoria deste manual foi baseada em fontes de alto rigor técnico e instituc
 
 ## 👤 Autor
 
-Desenvolvido por **[Seu Nome Aqui]** – Sinta-se à vontade para se conectar!
+Desenvolvido por **[Michael Pires]** – Sinta-se à vontade para se conectar!
 
 [![LinkedIn](https://img.shields.io)](LINK_DO_SEU_LINKEDIN)
 [![GitHub](https://img.shields.io)](LINK_DO_SEU_GITHUB)
