@@ -9,6 +9,11 @@
 
 ---
 
+## 🔗 Acesso ao Projeto
+Você pode visualizar o projeto completo e interagir com as fontes diretamente através do link abaixo:
+
+> [**Acessar NotebookLM - Manual de IA**](https://notebooklm.google.com/notebook/afc79a06-9278-4f8f-8e5c-eef795755335)
+
 ## 📌 Sumário
 1. [Sobre o Projeto](#-sobre-o-projeto)
 2. [Objetivos do Manual](#-objetivos-do-manual)
