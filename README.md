@@ -6,7 +6,7 @@
   <img src="image_7f5a6fde.png)" alt="Data Analytics">
 </p>
 
-![Logo](image_7f5a6fde.png)
+![Logo](imagem(1).png)
 
 https://github.com/MichaelJPires/desafio-01-estudos-notebooklm/blob/main/imagem(1).png
 
