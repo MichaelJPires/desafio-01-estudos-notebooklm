@@ -79,7 +79,7 @@ A curadoria deste manual foi baseada em fontes de alto rigor técnico e instituc
 Desenvolvido por **[Michael Pires]** – Sinta-se à vontade para se conectar!
 
 [![LinkedIn](https://img.shields.io)](LINK_DO_SEU_LINKEDIN)
-[![GitHub](https://img.shields.io)](LINK_DO_SEU_GITHUB)
+[![GitHub](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHYNSBfwZ3Wun9gojuYfM7N2DgKNml5e_0iw&s)](https://github.com/MichaelJPires)
 
 ---
 ⭐️ Se este guia te ajudou, dê uma **estrela** no repositório!
