@@ -1,7 +1,7 @@
 # 🧠 Desafio 01: Imersão em IA Generativa com NotebookLM
 
 <p align="center">
-  <img src="imagem(1).png" alt="NotebookLM" width="1000">
+  <img src="imagem.png" alt="NotebookLM" width="1000">
 </p>
 
 
