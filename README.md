@@ -87,3 +87,62 @@ Desenvolvido por **Michael Pires** – Sinta-se à vontade para se conectar!
 
 ---
 ⭐️ Se este guia te ajudou, dê uma **estrela** no repositório!
+
+
+
+
+
+Para o seu repositório no GitHub, o tópico de Engenharia de Prompts (o item 3 da DIO) precisa mostrar que você não apenas "conversou" com a IA, mas que testou limites e refinou a comunicação.
+Aqui está uma elaboração "mais humana" e técnica, conectada ao seu tema de IA na Análise de Dados, para você copiar e adaptar:
+------------------------------
+3. Engenharia de Prompts e "Cicatrizes" de Aprendizado 🧠
+Nesta etapa, documentei a evolução da minha interação com o NotebookLM. O objetivo foi transformar a teoria bruta sobre o ciclo de vida dos dados em insights aplicáveis. Abaixo, detalho os testes, os erros e os ajustes de rota:
+🛠️ O Prompt de "Aquecimento" (Onde comecei)
+
+Prompt: "Resuma as fases do ciclo de vida da análise de dados descritas no texto."
+
+
+* Resultado: A IA entregou uma lista genérica. Faltou profundidade sobre o impacto financeiro (Token Burn) e a diferença estratégica entre modelos.
+* Aprendizado: Prompts abertos geram respostas superficiais. Para análise de dados, a precisão é fundamental.
+
+🎯 O Prompt de "Mestre" (Refinado para o Tema)
+
+Prompt: "Aja como um Arquiteto de Soluções GenAI. Com base nas fontes, elabore um plano de ação para uma empresa que precisa escolher entre RAG e Fine-tuning. Considere a volatilidade dos dados e o custo de infraestrutura mencionado no tópico de Sustentabilidade."
+
+
+* Resultado: Excelente. A IA conectou a necessidade de dados dinâmicos com o "Padrão Ouro" do RAG e alertou sobre o consumo de água/energia dos servidores.
+* Por que funcionou? Atribuí uma persona (Arquiteto) e dei contexto restrito (Sustentabilidade e Custo).
+
+🩹 Minhas "Cicatrizes" (Troubleshooting)
+Durante o desenvolvimento, enfrentei dois desafios principais:
+
+   1. Alucinação Contextual: Ao perguntar sobre o Plano Brasileiro de IA (PBIA), a IA misturou dados de planos antigos. Solução: "Ancorei" o prompt exigindo que ela citasse especificamente o valor de R$ 23,03 bilhões presente no texto fonte.
+   2. Ambiguidade Técnica: A IA confundiu "limpeza de dados" com "redação de dados (masking)". Tive que criar um prompt corretivo definindo que, neste caderno, Redação refere-se à privacidade (LGPD) e não à edição de texto.
+
+------------------------------
+4. Miniguia de Estudo: O Futuro da Análise 📖
+Este é o consolidado final do meu aprendizado, estruturado para consultas rápidas:
+📌 Resumo Executivo
+A análise de dados deixou de ser um processo de "olhar para o passado" para se tornar uma camada agêntica e preditiva. A grande virada de chave é a transição do analista "operador de SQL" para o Analista Aumentado, que foca 80% menos em limpeza manual (agora automatizada semanticamente) e 100% mais em governança e estratégia.
+📙 Glossário de Termos-Chave
+
+* Token Burn: O consumo de recursos (financeiros e computacionais) ao processar grandes volumes de texto em LLMs.
+* RAG (Retrieval-Augmented Generation): Técnica que "alimenta" a IA com documentos externos em tempo real para evitar mentiras (alucinações).
+* Soberania Tecnológica: A capacidade de um país (ou empresa) de processar seus dados em infraestrutura própria ou controlada (ex: Supercomputador Pégaso).
+* NLQ (Natural Language Querying): Capacidade de fazer perguntas complexas ao banco de dados usando linguagem humana comum.
+
+🚀 Prompts Reutilizáveis para Analistas
+
+* "Analise este pipeline de ETL e identifique pontos onde a LGPD exige a técnica de Perturbação (Ruído) para proteção de PII."
+* "Crie uma narrativa executiva (Data Storytelling) comparando o ROI esperado entre o uso de GPT-4o e Gemini 1.5 Pro para este dataset."
+
+
+
+
+
+
+
+
+
+
+
