@@ -96,22 +96,16 @@ Para o seu repositório no GitHub, o tópico de Engenharia de Prompts (o item 3 
 Aqui está uma elaboração "mais humana" e técnica, conectada ao seu tema de IA na Análise de Dados, para você copiar e adaptar:
 ------------------------------
 3. Engenharia de Prompts e "Cicatrizes" de Aprendizado 🧠
-Nesta etapa, documentei a evolução da minha interação com o NotebookLM. O objetivo foi transformar a teoria bruta sobre o ciclo de vida dos dados em insights aplicáveis. Abaixo, detalho os testes, os erros e os ajustes de rota:
-🛠️ O Prompt de "Aquecimento" (Onde comecei)
 
-Prompt: "Resuma as fases do ciclo de vida da análise de dados descritas no texto."
+Engenharia de Prompts e "Cicatrizes": Do Ruído à Alavancagem
+Este exemplo demonstra a transição do "mecânico de dados" para o analista aumentado, focando em eficiência arquitetônica e redução do token burn.
 
+Iteração	Prompt Executado	Resultado Técnico (Baseado no Texto)	Impacto Estratégico
+Prompt 1 (Ruim)	"Resuma o impacto da IA nos dados."	Genérico: Resumo superficial sobre automação, ignorando o volume de 181 zettabytes e a soberania tecnológica.	Baixo ROI; não atende ao imperativo estratégico de escala.
 
-* Resultado: A IA entregou uma lista genérica. Faltou profundidade sobre o impacto financeiro (Token Burn) e a diferença estratégica entre modelos.
-* Aprendizado: Prompts abertos geram respostas superficiais. Para análise de dados, a precisão é fundamental.
-
-🎯 O Prompt de "Mestre" (Refinado para o Tema)
-
-Prompt: "Aja como um Arquiteto de Soluções GenAI. Com base nas fontes, elabore um plano de ação para uma empresa que precisa escolher entre RAG e Fine-tuning. Considere a volatilidade dos dados e o custo de infraestrutura mencionado no tópico de Sustentabilidade."
+Prompt 2 (Ajustado)	"Atue como um Estrategista de Dados GenAI. Resuma o ciclo de vida moderno em 5 tópicos, focando na decisão entre RAG e Fine-tuning para gerenciar custos."	Preciso: O modelo detalhou a latência e a fundamentação em fatos para reduzir alucinações, focando em eficiência arquitetônica.	Redução da carga técnica e foco em Governança e Sustentabilidade.
 
 
-* Resultado: Excelente. A IA conectou a necessidade de dados dinâmicos com o "Padrão Ouro" do RAG e alertou sobre o consumo de água/energia dos servidores.
-* Por que funcionou? Atribuí uma persona (Arquiteto) e dei contexto restrito (Sustentabilidade e Custo).
 
 🩹 Minhas "Cicatrizes" (Troubleshooting)
 Durante o desenvolvimento, enfrentei dois desafios principais:
