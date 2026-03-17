@@ -109,14 +109,14 @@ Iteração	Prompt Executado	Resultado Técnico (Baseado no Texto)	Impacto Estrat
 
 
 
-🩹 Minhas "Cicatrizes" (Troubleshooting)
+## 🩹 Minhas "Cicatrizes" (Troubleshooting)
 Durante o desenvolvimento, enfrentei dois desafios principais:
 
    1. Alucinação Contextual: Ao perguntar sobre o Plano Brasileiro de IA (PBIA), a IA misturou dados de planos antigos. Solução: "Ancorei" o prompt exigindo que ela citasse especificamente o valor de R$ 23,03 bilhões presente no texto fonte.
    2. Ambiguidade Técnica: A IA confundiu "limpeza de dados" com "redação de dados (masking)". Tive que criar um prompt corretivo definindo que, neste caderno, Redação refere-se à privacidade (LGPD) e não à edição de texto.
 
 ------------------------------
-4. Miniguia de Estudo: O Futuro da Análise 📖
+## 4. Miniguia de Estudo: O Futuro da Análise 📖
 Este é o consolidado final do meu aprendizado, estruturado para consultas rápidas:
 📌 Resumo Executivo
 A análise de dados deixou de ser um processo de "olhar para o passado" para se tornar uma camada agêntica e preditiva. A grande virada de chave é a transição do analista "operador de SQL" para o Analista Aumentado, que foca 80% menos em limpeza manual (agora automatizada semanticamente) e 100% mais em governança e estratégia.
@@ -126,11 +126,7 @@ A análise de dados deixou de ser um processo de "olhar para o passado" para se 
 Aqui está o glossário organizado de forma estratégica, conectando os conceitos técnicos ao fluxo da Revolução da Inteligência de Dados que você enviou anteriormente:
 
 
-# 📚 Glossário: A Revolução da Inteligência de Dados
-
-
-# 📖 Glossário Técnico: Revolução da Inteligência de Dados
-
+## 📚 Glossário Técnico: Revolução da Inteligência de Dados
 Tabela consolidada de termos fundamentais para a era da **IA Generativa**, **Soberania Tecnológica** e **Ciclo de Vida Estratégico**.
 
 
@@ -155,13 +151,9 @@ Tabela consolidada de termos fundamentais para a era da **IA Generativa**, **Sob
 | **Estratégia & Ops** | **MLOps** | Práticas para gerenciar o ciclo de vida do modelo, garantindo segurança, confiabilidade e controle de "token burn". |
 | **Estratégia & Ops** | **Dados Sintéticos** | Dados criados artificialmente (mimetismo) para testes sem expor PII, garantindo a soberania e privacidade (LGPD). |
 
----
-_Conteúdo estruturado conforme os pilares de **Eficiência Arquitetônica** e **Soberania Digital** (PBIA 2025-2028)._
 
 
-
-
-🚀 Prompts Reutilizáveis para Analistas
+## 🚀 Prompts Reutilizáveis para Analistas
 
 * "Analise este pipeline de ETL e identifique pontos onde a LGPD exige a técnica de Perturbação (Ruído) para proteção de PII."
 * "Crie uma narrativa executiva (Data Storytelling) comparando o ROI esperado entre o uso de GPT-4o e Gemini 1.5 Pro para este dataset."
