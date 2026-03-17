@@ -61,6 +61,9 @@ Iteração	Prompt Executado	Resultado Técnico (Baseado no Texto)	Impacto Estrat
 ## 🩹 Minhas "Cicatrizes" (Troubleshooting)
 Durante o desenvolvimento, enfrentei dois desafios principais:
 
+
+ Falta de conteudo completo: Foi preciso fazer uma pesquisa mais aprofundada no momentor de escolher as fontes. Embora "IA e DADOS" ter se tornado um assunto crescente na atualidade, ainda falta informações amplas e completas para uma boa compreensão.
+ 
    Alucinação Contextual: Ao perguntar sobre o Plano Brasileiro de IA (PBIA), a IA misturou dados de planos antigos. Solução: "Ancorei" o prompt exigindo que ela citasse especificamente o valor de R$ 23,03 bilhões presente no texto fonte.
 
 
