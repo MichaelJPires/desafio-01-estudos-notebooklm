@@ -51,7 +51,7 @@ A curadoria deste manual foi baseada em fontes de alto rigor técnico e instituc
 | [IA em Data Analytics](https://cloud.google.com/use-cases/ai-data-analytics?hl=pt-BR) | Google Cloud | Guia de Caso de Uso |
 | [PBIA 2025](https://www.gov.br/mcti/pt-br/centrais-de-conteudo/publicacoes-mcti/plano-brasileiro-de-inteligencia-artificial/pbia_mcti_2025.pdf) | MCTI | Plano Nacional |
 | [Aplicação de IA](https://repositorio-api.animaeducacao.com.br/server/api/core/bitstreams/5d8f1cbd-0a29-440b-9a67-a13a58ece747/content) | Anima | E-book |
-| [IA na Indústria 4.0](https://sebrae.com.br) | SEBRAE | E-book Estratégico |
+| [Ferramentas e Desafios](https://adapta.org/blog/ia-para-analise-de-dados) | ADAPTA | Guia |
 
 
 ## 🛠️ Metodologia de Estudo
