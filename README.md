@@ -121,11 +121,30 @@ Este é o consolidado final do meu aprendizado, estruturado para consultas rápi
 📌 Resumo Executivo
 A análise de dados deixou de ser um processo de "olhar para o passado" para se tornar uma camada agêntica e preditiva. A grande virada de chave é a transição do analista "operador de SQL" para o Analista Aumentado, que foca 80% menos em limpeza manual (agora automatizada semanticamente) e 100% mais em governança e estratégia.
 📙 Glossário de Termos-Chave
+Aqui está o glossário organizado de forma estratégica, conectando os conceitos técnicos ao fluxo da Revolução da Inteligência de Dados que você enviou anteriormente:
+1. Infraestrutura e Ativos Estratégicos (A Base)
+Big Data: O combustível da era moderna; volumes massivos (como os 181 zettabytes previstos) que exigem arquiteturas escaláveis.
+Dados Sintéticos: Dados criados artificialmente (ex: via Pseudonimização) para mimetizar dados reais, permitindo testes sem expor PII ou violar a LGPD.
+Algoritmo: O conjunto de regras que transforma dados brutos em saídas específicas através de etapas finitas.
+Ciência de Dados: Metodologias usadas para extrair conhecimento e transformar o "ruído" informacional em alavancagem de mercado.
+2. Núcleo de Inteligência (Modelos e Aprendizado)
+Inteligência Artificial (IA): Sistemas que realizam previsões e decisões; hoje evoluindo para uma camada agêntica na infraestrutura corporativa.
+Aprendizado de Máquina (Machine Learning): Subárea da IA que aprende com dados sem programação explícita para cada tarefa.
+Aprendizado Supervisionado: Treino com dados "rotulados" (respostas conhecidas).
+Aprendizado Não Supervisionado: O sistema descobre padrões ocultos em dados sem rótulos.
+Deep Learning (Aprendizado Profundo): Redes neurais em múltiplas camadas; a base para o processamento de contextos complexos.
+Modelos de Linguagem de Grande Escala (LLM): Modelos como Gemini ou GPT, treinados em escala massiva para processar e gerar linguagem humana sofisticada.
+3. Métodos e Execução Analítica
+Análise Preditiva: Uso de dados históricos para antecipar tendências futuras.
+Análise Prescritiva: O nível avançado que recomenda ações concretas para atingir objetivos.
+Inferência: Aplicar um modelo treinado a um dado novo para gerar um resultado imediato.
+Clustering (Agrupamento): Técnica de dividir dados em grupos por similaridade (essencial para organizar quintilhões de bytes).
+4. Estratégia, Customização e Governança
+RAG (Retrieval-Augmented Generation): O "padrão ouro" para fundamentar respostas em fatos proprietários em tempo real, reduzindo alucinações.
+Fine-tuning (Ajuste Fino): Ajuste de parâmetros (ex: LoRA/PEFT) para adaptar o modelo a terminologias técnicas ou tons de voz específicos.
+MLOps: Práticas para gerenciar o ciclo de vida do modelo, garantindo confiabilidade, segurança e o monitoramento do token burn.
+Viés (Bias): Erro sistemático que distorce resultados; combatê-lo é parte central da Auditoria Ética e conformidade.
 
-* Token Burn: O consumo de recursos (financeiros e computacionais) ao processar grandes volumes de texto em LLMs.
-* RAG (Retrieval-Augmented Generation): Técnica que "alimenta" a IA com documentos externos em tempo real para evitar mentiras (alucinações).
-* Soberania Tecnológica: A capacidade de um país (ou empresa) de processar seus dados em infraestrutura própria ou controlada (ex: Supercomputador Pégaso).
-* NLQ (Natural Language Querying): Capacidade de fazer perguntas complexas ao banco de dados usando linguagem humana comum.
 
 🚀 Prompts Reutilizáveis para Analistas
 
