@@ -68,8 +68,8 @@ Durante o desenvolvimento, enfrentei dois desafios principais:
 
 
 ------------------------------
-## 4. Miniguia de Estudo: O Futuro da Análise 📖
-🔗 Acesso ao Projeto
+## 📖 Miniguia de Estudo: O Futuro da Análise 
+🔗 Acesse ao Projeto
 Você pode visualizar o projeto completo e interagir com as fontes diretamente através do link abaixo:
 
 > [**Acessar NotebookLM - Manual de IA**](https://notebooklm.google.com/notebook/afc79a06-9278-4f8f-8e5c-eef795755335)
@@ -92,7 +92,6 @@ Tabela consolidada de termos fundamentais para a era da **IA Generativa**, **Sob
 | **Fundamentos** | **Viés (Bias)** | Erro sistemático que distorce resultados; combatê-lo é parte vital da **Auditoria Ética** e Governança. |
 | **Machine Learning** | **Machine Learning** | Subárea da IA focada em sistemas que aprendem com dados sem serem explicitamente programados para cada tarefa. |
 | **Machine Learning** | **Aprendizado Supervisionado** | O modelo é treinado com dados "rotulados", onde as respostas corretas já são conhecidas pelo sistema. |
-| **Machine Learning** | **Não Supervisionado** | O sistema aprende com dados sem rótulos, buscando descobrir padrões, grupos ou anomalias por conta própria. |
 | **Machine Learning** | **Deep Learning** | Aprendizado profundo baseado em redes neurais artificiais organizadas em múltiplas camadas de processamento. |
 | **Machine Learning** | **LLM (Large Language Models)** | Modelos treinados com volumes massivos (ex: Gemini/GPT) para processar e gerar linguagem humana sofisticada. |
 | **Métodos Analíticos** | **Análise Preditiva** | Uso de dados históricos para construir modelos capazes de prever tendências ou resultados futuros. |
