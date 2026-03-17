@@ -7,19 +7,6 @@
 
 > **Descrição:** Desenvolvimento de um manual didático e abrangente sobre Inteligência Artificial, focado em simplificar a jornada de iniciantes no universo da IA Generativa aplicada a dados.
 
----
-
-## 📌 Sumário
-1. [Sobre o Projeto](#-sobre-o-projeto)
-2. [Objetivos do Manual](#-objetivos-do-manual)
-3. [Base de Conhecimento (Fontes)](#-base-de-conhecimento-fontes)
-4. [Metodologia de Estudo](#-metodologia-de-estudo)
-5. [Principais Insights](#-principais-insights)
-6. [Como Utilizar este Repositório](#-como-utilizar-este-repositório)
-7. [Autor](#-autor)
-
-
----
 
 
 ## 📖 Sobre o Projeto
