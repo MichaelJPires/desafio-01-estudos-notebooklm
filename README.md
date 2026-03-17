@@ -101,9 +101,11 @@ Engenharia de Prompts e "Cicatrizes": Do Ruído à Alavancagem
 Este exemplo demonstra a transição do "mecânico de dados" para o analista aumentado, focando em eficiência arquitetônica e redução do token burn.
 
 Iteração	Prompt Executado	Resultado Técnico (Baseado no Texto)	Impacto Estratégico
-Prompt 1 (Ruim)	"Resuma o impacto da IA nos dados."	Genérico: Resumo superficial sobre automação, ignorando o volume de 181 zettabytes e a soberania tecnológica.	Baixo ROI; não atende ao imperativo estratégico de escala.
 
-Prompt 2 (Ajustado)	"Atue como um Estrategista de Dados GenAI. Resuma o ciclo de vida moderno em 5 tópicos, focando na decisão entre RAG e Fine-tuning para gerenciar custos."	Preciso: O modelo detalhou a latência e a fundamentação em fatos para reduzir alucinações, focando em eficiência arquitetônica.	Redução da carga técnica e foco em Governança e Sustentabilidade.
+| Iteração | Prompt executado | Resultado Técinico |
+| :--- | :--- | :--- |
+|Prompt 1 (Ruim)	| "Resuma o impacto da IA nos dados."	| Genérico: Resumo superficial sobre automação, ignorando o volume de 181 zettabytes e a soberania tecnológica.	|
+|Prompt 2 (Ajustado)	| "Atue como um Estrategista de Dados GenAI. Resuma o ciclo de vida moderno em 5 tópicos, focando na decisão entre RAG e Fine-tuning para gerenciar custos."	| Preciso: O modelo detalhou a latência e a fundamentação em fatos para reduzir alucinações, focando em eficiência arquitetônica.	| 
 
 
 
