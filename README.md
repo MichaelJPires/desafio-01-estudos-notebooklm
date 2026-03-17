@@ -124,9 +124,9 @@ Tabela consolidada de termos fundamentais para a era da **IA Generativa**, **Sob
 
 ## 🚀 Prompts Reutilizáveis para Analistas
 
-* "Analise este pipeline de ETL e identifique pontos onde a LGPD exige a técnica de Perturbação (Ruído) para proteção de PII."
-* "Crie uma narrativa executiva (Data Storytelling) comparando o ROI esperado entre o uso de GPT-4o e Gemini 1.5 Pro para este dataset."
-
+* "Como a IA generativa transforma o papel do analista de dados?"
+* "Quais são os principais desafios éticos e de privacidade em 2026?"
+* "Como a inteligência artificial ajuda na tomada de decisões estratégicas?"
 
 
 ## 👤 Autor
