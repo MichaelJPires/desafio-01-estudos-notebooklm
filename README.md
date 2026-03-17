@@ -90,7 +90,12 @@ Durante o desenvolvimento, enfrentei dois desafios principais:
 
 ------------------------------
 ## 4. Miniguia de Estudo: O Futuro da Análise 📖
-Este é o consolidado final do meu aprendizado, estruturado para consultas rápidas:
+🔗 Acesso ao Projeto
+Você pode visualizar o projeto completo e interagir com as fontes diretamente através do link abaixo:
+
+> [**Acessar NotebookLM - Manual de IA**](https://notebooklm.google.com/notebook/afc79a06-9278-4f8f-8e5c-eef795755335)
+
+
 📌 Resumo Executivo
 As fontes exploram como a Inteligência Artificial (IA) generativa e a análise de dados estão transformando radicalmente o ambiente corporativo e a produtividade. O conteúdo detalha a evolução do analista de dados, que deixa de realizar tarefas manuais de limpeza para atuar como um condutor estratégico de inteligência aumentada. Os textos destacam o surgimento da análise conversacional, onde o uso da linguagem natural permite que colaboradores sem perfil técnico obtenham insights complexos de forma instantânea. Além dos ganhos em eficiência e inovação, os documentos enfatizam a necessidade de governança ética, segurança e proteção de dados sensíveis para garantir a confiabilidade dos sistemas
 
