@@ -62,33 +62,6 @@ A curadoria deste manual foi baseada em fontes de alto rigor técnico e instituc
 4.  **Estruturação de Manual:** Organização do output em um guia lógico de introdução, desenvolvimento e conclusão.
 
 
-## ✨ Principais Insights Gerados
-
-- A importância da **ética e governança** conforme o Plano Brasileiro de IA.
-- Como a IA Generativa reduz o tempo de **limpeza e preparação de dados** em até 60%.
-- O papel fundamental da IA na **Indústria 4.0** para pequenos e médios negócios (Sebrae).
-
-
-## 📂 Como Utilizar este Repositório
-*   `notebooks/`: Contém os logs ou resumos exportados do NotebookLM.
-*   `referencias/`: Links e PDFs utilizados como fonte primária.
-*   `README.md`: Guia principal de navegação.
-
-
----
-
-
-## 👤 Autor
-
-Desenvolvido por **Michael Pires** – Sinta-se à vontade para se conectar!
-
-[![LinkedIn](https://img.icons8.com/?size=48&id=13930&format=png)](https://www.linkedin.com/in/michael-pires-897615200/)
-[![GitHub](https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png)](https://github.com/MichaelJPires)
-
----
-⭐️ Se este guia te ajudou, dê uma **estrela** no repositório!
-
-
 
 
 
@@ -119,11 +92,7 @@ Durante o desenvolvimento, enfrentei dois desafios principais:
 ## 4. Miniguia de Estudo: O Futuro da Análise 📖
 Este é o consolidado final do meu aprendizado, estruturado para consultas rápidas:
 📌 Resumo Executivo
-A análise de dados deixou de ser um processo de "olhar para o passado" para se tornar uma camada agêntica e preditiva. A grande virada de chave é a transição do analista "operador de SQL" para o Analista Aumentado, que foca 80% menos em limpeza manual (agora automatizada semanticamente) e 100% mais em governança e estratégia.
-
-
-📙 Glossário de Termos-Chave
-Aqui está o glossário organizado de forma estratégica, conectando os conceitos técnicos ao fluxo da Revolução da Inteligência de Dados que você enviou anteriormente:
+As fontes exploram como a Inteligência Artificial (IA) generativa e a análise de dados estão transformando radicalmente o ambiente corporativo e a produtividade. O conteúdo detalha a evolução do analista de dados, que deixa de realizar tarefas manuais de limpeza para atuar como um condutor estratégico de inteligência aumentada. Os textos destacam o surgimento da análise conversacional, onde o uso da linguagem natural permite que colaboradores sem perfil técnico obtenham insights complexos de forma instantânea. Além dos ganhos em eficiência e inovação, os documentos enfatizam a necessidade de governança ética, segurança e proteção de dados sensíveis para garantir a confiabilidade dos sistemas
 
 
 ## 📚 Glossário Técnico: Revolução da Inteligência de Dados
@@ -157,6 +126,18 @@ Tabela consolidada de termos fundamentais para a era da **IA Generativa**, **Sob
 
 * "Analise este pipeline de ETL e identifique pontos onde a LGPD exige a técnica de Perturbação (Ruído) para proteção de PII."
 * "Crie uma narrativa executiva (Data Storytelling) comparando o ROI esperado entre o uso de GPT-4o e Gemini 1.5 Pro para este dataset."
+
+
+
+## 👤 Autor
+
+Desenvolvido por **Michael Pires** – Sinta-se à vontade para se conectar!
+
+[![LinkedIn](https://img.icons8.com/?size=48&id=13930&format=png)](https://www.linkedin.com/in/michael-pires-897615200/)
+[![GitHub](https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png)](https://github.com/MichaelJPires)
+
+---
+⭐️ Se este guia te ajudou, dê uma **estrela** no repositório!
 
 
 
