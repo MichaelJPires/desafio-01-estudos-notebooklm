@@ -9,11 +9,6 @@
 
 ---
 
-## 🔗 Acesso ao Projeto
-Você pode visualizar o projeto completo e interagir com as fontes diretamente através do link abaixo:
-
-> [**Acessar NotebookLM - Manual de IA**](https://notebooklm.google.com/notebook/afc79a06-9278-4f8f-8e5c-eef795755335)
-
 ## 📌 Sumário
 1. [Sobre o Projeto](#-sobre-o-projeto)
 2. [Objetivos do Manual](#-objetivos-do-manual)
@@ -61,14 +56,8 @@ A curadoria deste manual foi baseada em fontes de alto rigor técnico e instituc
 3.  **Refinamento de Prompts:** Utilização de técnicas de *Prompt Engineering* para extrair resumos didáticos e guias de "passo a passo".
 4.  **Estruturação de Manual:** Organização do output em um guia lógico de introdução, desenvolvimento e conclusão.
 
-
-
-
-
-Para o seu repositório no GitHub, o tópico de Engenharia de Prompts (o item 3 da DIO) precisa mostrar que você não apenas "conversou" com a IA, mas que testou limites e refinou a comunicação.
-Aqui está uma elaboração "mais humana" e técnica, conectada ao seu tema de IA na Análise de Dados, para você copiar e adaptar:
 ------------------------------
-3. Engenharia de Prompts e "Cicatrizes" de Aprendizado 🧠
+## 🧠 Engenharia de Prompts 
 
 Engenharia de Prompts e "Cicatrizes": Do Ruído à Alavancagem
 Este exemplo demonstra a transição do "mecânico de dados" para o analista aumentado, focando em eficiência arquitetônica e redução do token burn.
@@ -85,8 +74,8 @@ Iteração	Prompt Executado	Resultado Técnico (Baseado no Texto)	Impacto Estrat
 ## 🩹 Minhas "Cicatrizes" (Troubleshooting)
 Durante o desenvolvimento, enfrentei dois desafios principais:
 
-   1. Alucinação Contextual: Ao perguntar sobre o Plano Brasileiro de IA (PBIA), a IA misturou dados de planos antigos. Solução: "Ancorei" o prompt exigindo que ela citasse especificamente o valor de R$ 23,03 bilhões presente no texto fonte.
-   2. Ambiguidade Técnica: A IA confundiu "limpeza de dados" com "redação de dados (masking)". Tive que criar um prompt corretivo definindo que, neste caderno, Redação refere-se à privacidade (LGPD) e não à edição de texto.
+   Alucinação Contextual: Ao perguntar sobre o Plano Brasileiro de IA (PBIA), a IA misturou dados de planos antigos. Solução: "Ancorei" o prompt exigindo que ela citasse especificamente o valor de R$ 23,03 bilhões presente no texto fonte.
+
 
 ------------------------------
 ## 4. Miniguia de Estudo: O Futuro da Análise 📖
@@ -141,8 +130,6 @@ Desenvolvido por **Michael Pires** – Sinta-se à vontade para se conectar!
 [![LinkedIn](https://img.icons8.com/?size=48&id=13930&format=png)](https://www.linkedin.com/in/michael-pires-897615200/)
 [![GitHub](https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png)](https://github.com/MichaelJPires)
 
----
-⭐️ Se este guia te ajudou, dê uma **estrela** no repositório!
 
 
 
