@@ -128,60 +128,36 @@ Aqui está o glossário organizado de forma estratégica, conectando os conceito
 
 # 📚 Glossário: A Revolução da Inteligência de Dados
 
-Repositório de termos fundamentais para a era da **Inteligência Artificial Generativa** e **Soberania Tecnológica**.
+
+# 📖 Glossário Técnico: Revolução da Inteligência de Dados
+
+Tabela consolidada de termos fundamentais para a era da **IA Generativa**, **Soberania Tecnológica** e **Ciclo de Vida Estratégico**.
+
+
+| Categoria | Termo | Definição Técnica e Estratégica |
+| :--- | :--- | :--- |
+| **Fundamentos** | **Inteligência Artificial (IA)** | Modelos e técnicas para previsões e decisões; hoje a camada fundamental da infraestrutura corporativa moderna. |
+| **Fundamentos** | **Algoritmo** | Conjunto de regras precisas que transformam dados de entrada em saídas específicas através de etapas finitas. |
+| **Fundamentos** | **Ciência de Dados** | Metodologias e algoritmos usados para extrair conhecimento e apoiar a tomada de decisão estratégica. |
+| **Fundamentos** | **Big Data** | Dados massivos (volume/variedade/velocidade) que exigem arquiteturas escaláveis para processamento (ex: 181 zettabytes). |
+| **Fundamentos** | **Viés (Bias)** | Erro sistemático que distorce resultados; combatê-lo é parte vital da **Auditoria Ética** e Governança. |
+| **Machine Learning** | **Machine Learning** | Subárea da IA focada em sistemas que aprendem com dados sem serem explicitamente programados para cada tarefa. |
+| **Machine Learning** | **Aprendizado Supervisionado** | O modelo é treinado com dados "rotulados", onde as respostas corretas já são conhecidas pelo sistema. |
+| **Machine Learning** | **Não Supervisionado** | O sistema aprende com dados sem rótulos, buscando descobrir padrões, grupos ou anomalias por conta própria. |
+| **Machine Learning** | **Deep Learning** | Aprendizado profundo baseado em redes neurais artificiais organizadas em múltiplas camadas de processamento. |
+| **Machine Learning** | **LLM (Large Language Models)** | Modelos treinados com volumes massivos (ex: Gemini/GPT) para processar e gerar linguagem humana sofisticada. |
+| **Métodos Analíticos** | **Análise Preditiva** | Uso de dados históricos para construir modelos capazes de prever tendências ou resultados futuros. |
+| **Métodos Analíticos** | **Análise Prescritiva** | Nível avançado que recomenda ações concretas para atingir um objetivo desejado, acelerando decisões no C-suite. |
+| **Métodos Analíticos** | **Inferência** | O ato de aplicar um modelo já treinado a um novo dado para gerar um resultado imediato (classificação ou previsão). |
+| **Métodos Analíticos** | **Clustering (Agrupamento)** | Técnica para dividir dados em grupos baseada em suas similaridades semânticas ou estatísticas. |
+| **Estratégia & Ops** | **RAG (Retrieval-Augmented)** | "Padrão ouro" para recuperar informações de bases proprietárias em tempo real, reduzindo alucinações e custos. |
+| **Estratégia & Ops** | **Fine-tuning (Ajuste Fino)** | Ajuste de parâmetros de um modelo pré-treinado para adaptá-lo a um tom de voz ou terminologia técnica específica. |
+| **Estratégia & Ops** | **MLOps** | Práticas para gerenciar o ciclo de vida do modelo, garantindo segurança, confiabilidade e controle de "token burn". |
+| **Estratégia & Ops** | **Dados Sintéticos** | Dados criados artificialmente (mimetismo) para testes sem expor PII, garantindo a soberania e privacidade (LGPD). |
 
 ---
+_Conteúdo estruturado conforme os pilares de **Eficiência Arquitetônica** e **Soberania Digital** (PBIA 2025-2028)._
 
-## 🏗️ 1. Fundamentos de IA e Infraestrutura
-*A base para lidar com os 181 zettabytes previstos para 2025.*
-
-
-
-| Termo | Definição Estratégica |
-| :--- | :--- |
-| **Inteligência Artificial (IA)** | Modelos aplicados para realizar previsões ou decisões que influenciam ambientes reais/virtuais, evoluindo para uma camada agêntica corporativa. |
-| **Algoritmo** | Conjunto de regras precisas que transformam dados de entrada em saídas específicas através de etapas finitas. |
-| **Big Data** | Conjuntos de dados extensos em volume, variedade e velocidade que exigem arquiteturas escaláveis para processamento. |
-| **Ciência de Dados** | Metodologias e algoritmos usados para extrair conhecimento e apoiar a tomada de decisão baseada em dados. |
-| **Dados Sintéticos** | Criados artificialmente para mimetizar dados reais; essenciais para testes sem expor PII (Dados Sensíveis), garantindo conformidade com a LGPD. |
-
----
-
-## 🧠 2. Machine Learning & LLMs
-*O motor da transição do "mecânico de dados" para o "analista aumentado".*
-
-*   **Machine Learning (Aprendizado de Máquina):** Subárea da IA focada em sistemas que aprendem com dados sem programação explícita.
-    *   **Aprendizado Supervisionado:** Treino com dados "rotulados" (respostas conhecidas).
-    *   **Aprendizado Não Supervisionado:** Descoberta de padrões ou grupos em dados sem rótulos.
-*   **Deep Learning (Aprendizado Profundo):** Baseado em redes neurais artificiais em múltiplas camadas de processamento.
-*   **LLM (Large Language Models):** Modelos como Gemini ou GPT-4o, treinados com volumes massivos para processar contextos complexos e linguagem humana.
-*   **Viés (Bias):** Erro sistemático que distorce resultados; combatê-lo é parte vital da **Governança e Auditoria Ética**.
-
----
-
-## 📊 3. Métodos Analíticos e Execução
-*Transformando o "ruído" informacional em alavancagem de mercado.*
-
-> **Análise Preditiva:** Uso de dados históricos para prever tendências ou resultados futuros.  
-> **Análise Prescritiva:** Nível avançado que recomenda ações concretas para atingir um objetivo.  
-> **Inferência:** Aplicação de um modelo treinado a um dado novo para gerar um resultado imediato.  
-> **Clustering (Agrupamento):** Divisão de dados em grupos baseada em similaridades.
-
----
-
-## ⚙️ 4. Estratégia, Customização e MLOps
-*O divisor de águas para eficiência arquitetônica e ROI.*
-
-
-
-| Método | Técnica e Vantagem de Valor |
-| :--- | :--- |
-| **RAG (Retrieval-Augmented Generation)** | "Padrão ouro" para fundamentar respostas em bases proprietárias em tempo real, reduzindo alucinações. |
-| **Fine-tuning (Ajuste Fino)** | Ajuste de parâmetros (ex: LoRA) para adaptar o modelo a terminologias técnicas específicas ou nichos. |
-| **MLOps** | Práticas para gerenciar o ciclo de vida do modelo, garantindo segurança, confiabilidade e controle de "token burn". |
-
----
-_Conteúdo baseado no framework de Soberania Tecnológica e Ciclo de Vida de Dados 2025._
 
 
 
